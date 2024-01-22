@@ -11,6 +11,6 @@ Iniciando em janeiro, o objetivo é aprimorar as habilidades na construção uti
 ## Estrutura do projeto:
 <nav>
 <ul>
-        <li><a href="./Dia 1">Dia 1</a></li>
+        <li><a href="./DIA 1">Dia 1</a></li>
 </ul>
 </nav>
