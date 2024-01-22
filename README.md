@@ -1,2 +1,3 @@
-# FRONTEND-Estudo
-Desafio de 30 dias com a prática de Css e Html para aprimorar minhas habilidades com front-end.
+# Projeto Site por Dia
+
+Um projeto front-end onde desenvolvo um site diferente a cada dia para aprimorar minhas habilidades.
