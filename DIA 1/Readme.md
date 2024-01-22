@@ -10,12 +10,14 @@
 
 - <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">Frontend Mentor</a> foi usado como referência para o projeto.
 
-*Resultado final: *
+*Resultado final:*
 
 Desktop:
+</br>
 <img src="./Resultado/desktop.png" alt="desktop-image">
 
 Mobile:
+</br>
 <img src="./Resultado/mobile.png" alt="mobile-img">
 
 *Observações:*
