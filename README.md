@@ -12,5 +12,6 @@ Iniciando em janeiro, o objetivo é aprimorar as habilidades na construção uti
 <nav>
 <ul>
         <li><a href="./DIA 1">Dia 1</a></li>
+        <li><a href="./DIA 2">Dia 2</a></li>
 </ul>
 </nav>
